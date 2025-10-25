@@ -1,0 +1,35 @@
+{
+  "name": "t3c0t4z - Sistema de Conexão Segura",
+  "short_name": "t3c0t4z",
+  "description": "t3c0t4z - Sistema de Conexão Segura para WhatsApp. Automação inteligente via QR Code.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#6d28d9",
+  "theme_color": "#6d28d9",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "pt-BR",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "https://lhujzzoqebgjbsnezmrt.supabase.co/storage/v1/object/public/Photos/180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://lhujzzoqebgjbsnezmrt.supabase.co/storage/v1/object/public/Photos/180.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "utilities"],
+  "screenshots": [
+    {
+      "src": "https://dildpbhnplvynguniwzs.supabase.co/storage/v1/object/public/produtos/logomarca%20para%20n8n%20wbc5.png",
+      "sizes": "540x720",
+      "type": "image/png"
+    }
+  ]
+}
