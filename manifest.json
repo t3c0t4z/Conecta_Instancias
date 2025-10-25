@@ -12,13 +12,13 @@
   "dir": "ltr",
   "icons": [
     {
-      "src": "https://lhujzzoqebgjbsnezmrt.supabase.co/storage/v1/object/public/Photos/180.png",
+      "src": "https://lhujzzoqebgjbsnezmrt.supabase.co/storage/v1/object/public/Photos/faviconconectainstancias2.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "https://lhujzzoqebgjbsnezmrt.supabase.co/storage/v1/object/public/Photos/180.png",
+      "src": "https://lhujzzoqebgjbsnezmrt.supabase.co/storage/v1/object/public/Photos/faviconconectainstancias2.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
