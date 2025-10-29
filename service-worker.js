@@ -7,9 +7,10 @@ const CACHE_VERSION = '1.0';
 
 // Arquivos para cache
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json',
+  './',
+  './index.html',
+  './manifest.json',
+  './config.js',
   
   // Fontes Google
   'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap',
@@ -88,7 +89,7 @@ self.addEventListener('fetch', (event) => {
           
           // Se não tiver no cache, retorna página offline
           if (event.request.destination === 'document') {
-            return caches.match('/index.html');
+            return caches.match('./index.html');
           }
           
           // Para outros recursos, retorna erro genérico

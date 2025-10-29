@@ -2,7 +2,7 @@
   "name": "t3c0t4z - Sistema de Conexão Segura",
   "short_name": "t3c0t4z",
   "description": "t3c0t4z - Sistema de Conexão Segura para WhatsApp. Automação inteligente via QR Code.",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#6d28d9",
   "theme_color": "#6d28d9",
